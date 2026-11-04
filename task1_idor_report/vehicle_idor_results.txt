@@ -1,0 +1,12 @@
+=== f89b5f21-7829-45cb-a650-299a61090378 ===
+{"carId":"f89b5f21-7829-45cb-a650-299a61090378","vehicleLocation":{"id":1,"latitude":"32.778889","longitude":"-91.919243"},"fullName":"Adam","email":"adam007@example.com"}
+Status: 200
+
+=== cd515c12-0fc1-48ae-8b61-9230b70a845b ===
+{"carId":"cd515c12-0fc1-48ae-8b61-9230b70a845b","vehicleLocation":{"id":2,"latitude":"31.284788","longitude":"-92.471176"},"fullName":"Pogba","email":"pogba006@example.com"}
+Status: 200
+
+=== 4bae9968-ec7f-4de3-a3a0-ba1b2ab5e5e5 ===
+{"carId":"4bae9968-ec7f-4de3-a3a0-ba1b2ab5e5e5","vehicleLocation":{"id":3,"latitude":"37.746880","longitude":"-84.301460"},"fullName":"Robot","email":"robot001@example.com"}
+Status: 200
+
